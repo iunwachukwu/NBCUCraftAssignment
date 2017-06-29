@@ -4,8 +4,8 @@
 ## Project source can be downloaded from the following link: https://github.com/iunwachukwu/NBCUCraftAssignment.git
 ## Author and Conttributor List  
 #### Innocent Nwachukwu, QA Automation Engineer.
-#### All known bug fixes can be sent to iunwachukwu@yahoo.com testing and validations.
-#### Reported bugs will tracked using JIRA and prioritized by PDM for Development.
+#### All known bug fixes can be sent to iunwachukwu@yahoo.com for testing and validations.
+#### Reported bugs will be tracked using JIRA and prioritized by PDM for Development work.
 ## Package List
 ```
 com/nbcu/tests
